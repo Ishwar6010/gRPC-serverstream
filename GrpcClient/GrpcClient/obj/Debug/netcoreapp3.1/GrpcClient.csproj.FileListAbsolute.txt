@@ -1,0 +1,58 @@
+C:\Users\User\OneDrive\Documents\GrpcClient\GrpcClient\bin\Debug\netcoreapp3.1\GrpcClient.exe
+C:\Users\User\OneDrive\Documents\GrpcClient\GrpcClient\bin\Debug\netcoreapp3.1\GrpcClient.deps.json
+C:\Users\User\OneDrive\Documents\GrpcClient\GrpcClient\bin\Debug\netcoreapp3.1\GrpcClient.runtimeconfig.json
+C:\Users\User\OneDrive\Documents\GrpcClient\GrpcClient\bin\Debug\netcoreapp3.1\GrpcClient.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Documents\GrpcClient\GrpcClient\bin\Debug\netcoreapp3.1\GrpcClient.dll
+C:\Users\User\OneDrive\Documents\GrpcClient\GrpcClient\bin\Debug\netcoreapp3.1\GrpcClient.pdb
+C:\Users\User\OneDrive\Documents\GrpcClient\GrpcClient\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\User\OneDrive\Documents\GrpcClient\GrpcClient\bin\Debug\netcoreapp3.1\Grpc.AspNetCore.Server.dll
+C:\Users\User\OneDrive\Documents\GrpcClient\GrpcClient\bin\Debug\netcoreapp3.1\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\User\OneDrive\Documents\GrpcClient\GrpcClient\bin\Debug\netcoreapp3.1\Grpc.Core.dll
+C:\Users\User\OneDrive\Documents\GrpcClient\GrpcClient\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+C:\Users\User\OneDrive\Documents\GrpcClient\GrpcClient\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+C:\Users\User\OneDrive\Documents\GrpcClient\GrpcClient\bin\Debug\netcoreapp3.1\Grpc.Net.ClientFactory.dll
+C:\Users\User\OneDrive\Documents\GrpcClient\GrpcClient\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+C:\Users\User\OneDrive\Documents\GrpcClient\GrpcClient\bin\Debug\netcoreapp3.1\runtimes\linux\native\libgrpc_csharp_ext.x64.so
+C:\Users\User\OneDrive\Documents\GrpcClient\GrpcClient\bin\Debug\netcoreapp3.1\runtimes\linux\native\libgrpc_csharp_ext.x86.so
+C:\Users\User\OneDrive\Documents\GrpcClient\GrpcClient\bin\Debug\netcoreapp3.1\runtimes\osx\native\libgrpc_csharp_ext.x64.dylib
+C:\Users\User\OneDrive\Documents\GrpcClient\GrpcClient\bin\Debug\netcoreapp3.1\runtimes\osx\native\libgrpc_csharp_ext.x86.dylib
+C:\Users\User\OneDrive\Documents\GrpcClient\GrpcClient\bin\Debug\netcoreapp3.1\runtimes\win\native\grpc_csharp_ext.x64.dll
+C:\Users\User\OneDrive\Documents\GrpcClient\GrpcClient\bin\Debug\netcoreapp3.1\runtimes\win\native\grpc_csharp_ext.x86.dll
+C:\Users\User\OneDrive\Documents\GrpcClient\GrpcClient\obj\Debug\netcoreapp3.1\GrpcClient.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Documents\GrpcClient\GrpcClient\obj\Debug\netcoreapp3.1\GrpcClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documents\GrpcClient\GrpcClient\obj\Debug\netcoreapp3.1\GrpcClient.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documents\GrpcClient\GrpcClient\obj\Debug\netcoreapp3.1\GrpcClient.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documents\GrpcClient\GrpcClient\obj\Debug\netcoreapp3.1\GrpcClient.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\GrpcClient\GrpcClient\obj\Debug\netcoreapp3.1\GrpcClient.csproj.CopyComplete
+C:\Users\User\OneDrive\Documents\GrpcClient\GrpcClient\obj\Debug\netcoreapp3.1\GrpcClient.dll
+C:\Users\User\OneDrive\Documents\GrpcClient\GrpcClient\obj\Debug\netcoreapp3.1\GrpcClient.pdb
+C:\Users\User\OneDrive\Documents\GrpcClient\GrpcClient\obj\Debug\netcoreapp3.1\GrpcClient.genruntimeconfig.cache
+C:\Users\User\OneDrive\Documents\grpc serverstream\GrpcClient\GrpcClient\bin\Debug\netcoreapp3.1\GrpcClient.exe
+C:\Users\User\OneDrive\Documents\grpc serverstream\GrpcClient\GrpcClient\bin\Debug\netcoreapp3.1\GrpcClient.deps.json
+C:\Users\User\OneDrive\Documents\grpc serverstream\GrpcClient\GrpcClient\bin\Debug\netcoreapp3.1\GrpcClient.runtimeconfig.json
+C:\Users\User\OneDrive\Documents\grpc serverstream\GrpcClient\GrpcClient\bin\Debug\netcoreapp3.1\GrpcClient.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Documents\grpc serverstream\GrpcClient\GrpcClient\bin\Debug\netcoreapp3.1\GrpcClient.dll
+C:\Users\User\OneDrive\Documents\grpc serverstream\GrpcClient\GrpcClient\bin\Debug\netcoreapp3.1\GrpcClient.pdb
+C:\Users\User\OneDrive\Documents\grpc serverstream\GrpcClient\GrpcClient\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\User\OneDrive\Documents\grpc serverstream\GrpcClient\GrpcClient\bin\Debug\netcoreapp3.1\Grpc.AspNetCore.Server.dll
+C:\Users\User\OneDrive\Documents\grpc serverstream\GrpcClient\GrpcClient\bin\Debug\netcoreapp3.1\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\User\OneDrive\Documents\grpc serverstream\GrpcClient\GrpcClient\bin\Debug\netcoreapp3.1\Grpc.Core.dll
+C:\Users\User\OneDrive\Documents\grpc serverstream\GrpcClient\GrpcClient\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+C:\Users\User\OneDrive\Documents\grpc serverstream\GrpcClient\GrpcClient\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+C:\Users\User\OneDrive\Documents\grpc serverstream\GrpcClient\GrpcClient\bin\Debug\netcoreapp3.1\Grpc.Net.ClientFactory.dll
+C:\Users\User\OneDrive\Documents\grpc serverstream\GrpcClient\GrpcClient\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+C:\Users\User\OneDrive\Documents\grpc serverstream\GrpcClient\GrpcClient\bin\Debug\netcoreapp3.1\runtimes\linux\native\libgrpc_csharp_ext.x64.so
+C:\Users\User\OneDrive\Documents\grpc serverstream\GrpcClient\GrpcClient\bin\Debug\netcoreapp3.1\runtimes\linux\native\libgrpc_csharp_ext.x86.so
+C:\Users\User\OneDrive\Documents\grpc serverstream\GrpcClient\GrpcClient\bin\Debug\netcoreapp3.1\runtimes\osx\native\libgrpc_csharp_ext.x64.dylib
+C:\Users\User\OneDrive\Documents\grpc serverstream\GrpcClient\GrpcClient\bin\Debug\netcoreapp3.1\runtimes\osx\native\libgrpc_csharp_ext.x86.dylib
+C:\Users\User\OneDrive\Documents\grpc serverstream\GrpcClient\GrpcClient\bin\Debug\netcoreapp3.1\runtimes\win\native\grpc_csharp_ext.x64.dll
+C:\Users\User\OneDrive\Documents\grpc serverstream\GrpcClient\GrpcClient\bin\Debug\netcoreapp3.1\runtimes\win\native\grpc_csharp_ext.x86.dll
+C:\Users\User\OneDrive\Documents\grpc serverstream\GrpcClient\GrpcClient\obj\Debug\netcoreapp3.1\GrpcClient.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Documents\grpc serverstream\GrpcClient\GrpcClient\obj\Debug\netcoreapp3.1\GrpcClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documents\grpc serverstream\GrpcClient\GrpcClient\obj\Debug\netcoreapp3.1\GrpcClient.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documents\grpc serverstream\GrpcClient\GrpcClient\obj\Debug\netcoreapp3.1\GrpcClient.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documents\grpc serverstream\GrpcClient\GrpcClient\obj\Debug\netcoreapp3.1\GrpcClient.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\grpc serverstream\GrpcClient\GrpcClient\obj\Debug\netcoreapp3.1\GrpcClient.csproj.CopyComplete
+C:\Users\User\OneDrive\Documents\grpc serverstream\GrpcClient\GrpcClient\obj\Debug\netcoreapp3.1\GrpcClient.dll
+C:\Users\User\OneDrive\Documents\grpc serverstream\GrpcClient\GrpcClient\obj\Debug\netcoreapp3.1\GrpcClient.pdb
+C:\Users\User\OneDrive\Documents\grpc serverstream\GrpcClient\GrpcClient\obj\Debug\netcoreapp3.1\GrpcClient.genruntimeconfig.cache

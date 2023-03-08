@@ -1,0 +1,12 @@
+﻿syntax = "proto3";
+
+//using this because we are not expecting any input
+import "google/protobuf/empty.proto";
+option csharp_namespace = "GrpcClientCount";
+
+service ClientCountProvider{
+	rpc GetClientCount (google.protobuf.Empty) returns (stream ClientCount);
+}
+message ClientCount{
+	int32 Count=1;
+}
